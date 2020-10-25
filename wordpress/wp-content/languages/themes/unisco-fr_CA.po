@@ -1,0 +1,888 @@
+# Translation of Themes - UNISCO in French (Canada)
+# This file is distributed under the same license as the Themes - UNISCO package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-18 18:22:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr_CA\n"
+"Project-Id-Version: Themes - UNISCO\n"
+
+#. Description of the plugin/theme
+msgid "A theme for schools, colleges, universities or other educational institutions."
+msgstr "Un thème pour les écoles, collèges, universités et autres institution éducationnelles."
+
+#. Theme Name of the plugin/theme
+msgid "UNISCO"
+msgstr "UNISCO"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3611
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgmpa.php:3609
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été complétées."
+
+#: inc/class-tgmpa.php:3606
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation a été entamé. Soyez patient: ce processus dépend des ressources du serveur hôte et peut être lent dans certains cas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3603
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgmpa.php:3601
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été complétées."
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:3600 inc/class-tgmpa.php:3608
+msgid "%1$s done."
+msgstr "%1$s complété."
+
+#: inc/class-tgmpa.php:3598
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Les processus d'installation et d'activation ont été entamés. Soyez patient: ces processus dépendent des ressources du serveur hôte et peuvent être lent dans certains cas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:3594
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s à échouée."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgmpa.php:3592
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Un erreur s'est produite durant l'installation de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3589
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/class-tgmpa.php:3249
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension à échouée."
+
+#: inc/class-tgmpa.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension disponible peut être activé à ce moment."
+
+#: inc/class-tgmpa.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension choisie pour l'activation. Aucune action n'a été prise."
+
+#: inc/class-tgmpa.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr "\tAucune extension disponible peut être activé à ce moment."
+
+#: inc/class-tgmpa.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr "\tAucune extension disponible peut être activé à ce moment."
+
+#: inc/class-tgmpa.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension choisie pour le mise à jour. Aucune action n'a été prise."
+
+#: inc/class-tgmpa.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension choisie pour l'installation. Aucune action n'a été prise."
+
+#: inc/class-tgmpa.php:2817
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/class-tgmpa.php:2814
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: inc/class-tgmpa.php:2808
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-tgmpa.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l'auteur(e) de l'extension."
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2705
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2699
+msgid "Update %2$s"
+msgstr "Mettre à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2694
+msgid "Install %2$s"
+msgstr "Installer %2$s"
+
+#: inc/class-tgmpa.php:2645
+msgid "Status"
+msgstr "Statut"
+
+#: inc/class-tgmpa.php:2644
+msgid "Version"
+msgstr "Version"
+
+#: inc/class-tgmpa.php:2640
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgmpa.php:2639
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgmpa.php:2638
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/class-tgmpa.php:2624
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, mettre à jour ou activer."
+
+#: inc/class-tgmpa.php:2601
+msgid "Available version:"
+msgstr "Version disponible:"
+
+#: inc/class-tgmpa.php:2589
+msgid "Minimum required version:"
+msgstr "Version minimum requise:"
+
+#: inc/class-tgmpa.php:2581
+msgid "Installed version:"
+msgstr "Version installée:"
+
+#: inc/class-tgmpa.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2491
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2487
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mises à jour disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2483
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2479
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toute <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgmpa.php:2433
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgmpa.php:2424
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/class-tgmpa.php:2421
+msgid "Requires Update"
+msgstr "Mise à jour requise"
+
+#: inc/class-tgmpa.php:2418
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: inc/class-tgmpa.php:2412
+msgid "Active"
+msgstr "Active"
+
+#: inc/class-tgmpa.php:2410
+msgid "Installed But Not Activated"
+msgstr "Installée mais inactive"
+
+#: inc/class-tgmpa.php:2406
+msgid "Not Installed"
+msgstr "Non-installée"
+
+#: inc/class-tgmpa.php:2389
+msgid "Pre-Packaged"
+msgstr "Pré-intégrée"
+
+#: inc/class-tgmpa.php:2386
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/class-tgmpa.php:2383
+msgid "WordPress Repository"
+msgstr "Répertoire WordPress"
+
+#: inc/class-tgmpa.php:2367
+msgid "Recommended"
+msgstr "Recommendée"
+
+#: inc/class-tgmpa.php:2364
+msgid "Required"
+msgstr "Requise"
+
+#. translators: %s: version number
+#: inc/class-tgmpa.php:2073
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgmpa.php:1212 inc/class-tgmpa.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/class-tgmpa.php:1025
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "L'extension de source externe contient plusieurs fichiers, mais ils ne sont pas pre-intégré dans un seul dossier. "
+
+#: inc/class-tgmpa.php:1022 inc/class-tgmpa.php:1025
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter l'auteur(e) de l'extension afin de leur demander de pré-intégrer leur code selon les lignes directrices de WordPress."
+
+#: inc/class-tgmpa.php:1022
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "L'extension de source externe n'inclue pas un dossier avec un identifiant reconnu, et n'a pu être renommé."
+
+#: inc/class-tgmpa.php:608
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: inc/class-tgmpa.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension doit être mise à jour afin d'être compatible avec votre thème."
+
+#: inc/class-tgmpa.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l'administrateur/trice du site pour recevoir de l'aide."
+
+#: inc/class-tgmpa.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a une ou plusieures extension requise(s) ou recommandée(s) à installer, mettre à jour ou activer."
+
+#: inc/class-tgmpa.php:402
+msgid "Dismiss this notice"
+msgstr "Ignorer cette notification"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgmpa.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont été installées et activées. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non-activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez la mettre à jour."
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action prise: l'extension %1$s est déjà active."
+
+#: inc/class-tgmpa.php:395 inc/class-tgmpa.php:3043
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a été activée avec succès:"
+
+#: inc/class-tgmpa.php:394 inc/class-tgmpa.php:3250
+msgid "Plugin activated successfully."
+msgstr "Extension activée avec succès."
+
+#: inc/class-tgmpa.php:393 inc/class-tgmpa.php:915 inc/class-tgmpa.php:2624
+#: inc/class-tgmpa.php:3671
+msgid "Return to the Dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: inc/class-tgmpa.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner l'installateur d'extensions requises"
+
+#: inc/class-tgmpa.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer l'activation de l'extension"
+msgstr[1] "Commencer l'activation des extensions"
+
+#: inc/class-tgmpa.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour de l'extension"
+msgstr[1] "Commencer la mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencer l'installation de l'extension"
+msgstr[1] "Commencer l'installation des extensions"
+
+#: inc/class-tgmpa.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur est survenue avec l'API de l'extension."
+
+#. translators: %s: plugin name.
+#: inc/class-tgmpa.php:339
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l'extension: %s"
+
+#. translators: %s: plugin name.
+#: inc/class-tgmpa.php:337
+msgid "Installing Plugin: %s"
+msgstr "Installation de l'extension: %s"
+
+#: inc/class-tgmpa.php:335
+msgid "Install Plugins"
+msgstr "Installer les extensions"
+
+#: inc/class-tgmpa.php:334
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: customizer/sections/slider.php:121
+msgid "Shuffle Slides"
+msgstr "Présentation aléatoire des diapositives"
+
+#: customizer/sections/slider.php:95
+msgid "Adjust Slide Speed"
+msgstr "Ajuster la vitesse de présentation des diapositives"
+
+#: template-parts/header/header-slider.php:64
+#: template-parts/header/header-slider.php:67
+msgid "Please select slide content"
+msgstr "Choisir les contenus des diapositives"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:57
+msgid "Read more %s"
+msgstr "En savoir plus %s"
+
+#: template-parts/content-title.php:13
+#: template-parts/header/header-title.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Cette page ne peut être trouvée."
+
+#. translators: %s: search query.
+#: template-parts/content-title.php:8 template-parts/header/header-title.php:15
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour: %s"
+
+#: template-parts/content-page.php:71 template-parts/content-quote.php:67
+#: template-parts/content.php:62
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-page.php:60 template-parts/content-quote.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer à lire %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Aucun résultat disponible. Essayez le moteur de recherche."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Aucun résultat trouvé pour les termes recherchés. Recommencez avec d'autre termes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt(e) à publier votre premier article? <a href=\"%1$s\">Débutez ici</a>. "
+
+#: template-parts/content-none.php:17
+msgid "No posts to show"
+msgstr "Aucun article."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:162
+msgid "Edit %s"
+msgstr "Éditer %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:146
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laissez un commentaire <span class=\"screen-reader-text\"> au sujet de %s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:136
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:129
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:109 template-parts/content-page.php:44
+#: template-parts/content-quote.php:40
+msgid "Edit"
+msgstr "Éditer"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:99 inc/template-tags.php:133
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:126
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35 inc/template-tags.php:75
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29 inc/template-tags.php:69
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/template-functions.php:199 inc/template-functions.php:201
+#: template-parts/header/header-slider.php:79
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/template-functions.php:187 inc/template-functions.php:189
+#: template-parts/header/header-slider.php:75
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/template-functions.php:177
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/extras.php:385
+msgid "Information on how to set up menu and slider is available <a href=\"%1$s\">here</a>."
+msgstr "Information sur la configuration du menu et du carousel disponible <a href=\"%1$s\">ici</a>."
+
+#: inc/extras.php:383
+msgid "Thank you for installing Unisco!"
+msgstr "Merci d'avoir installé Unisco!"
+
+#: inc/extras.php:337
+msgid "24x7 Support"
+msgstr "Support 24x7"
+
+#: inc/extras.php:336
+msgid "Google Maps."
+msgstr "Google Maps."
+
+#: inc/extras.php:335
+msgid "Instagram feeds."
+msgstr "Flux Instagram."
+
+#: inc/extras.php:334
+msgid "Page layouts - Right Sidebar, Left Sidebar, Boxed and Full Width."
+msgstr "Mise en page: colonne latérale à droite, colonne latérale à droite, en boîte, pleine largeur."
+
+#: inc/extras.php:333
+msgid "Typography powered with Google fonts."
+msgstr "Typographie utilisant les polices de Google."
+
+#: inc/extras.php:332
+msgid "Customize pages with page specific options."
+msgstr "Personnaliser les pages."
+
+#: inc/extras.php:331
+msgid "Testimonials."
+msgstr "Témoignages. "
+
+#: inc/extras.php:330
+msgid "Custom forms specifically made for admissions and contact."
+msgstr "Formulaires personnalisés pour les admissions et contact général."
+
+#: inc/extras.php:329
+msgid "Courses."
+msgstr "Cours."
+
+#: inc/extras.php:328
+msgid "Events."
+msgstr "Événements. "
+
+#: inc/extras.php:327
+msgid "Page Builder."
+msgstr "Constructeur de page."
+
+#: inc/extras.php:326
+msgid "One click demo setup."
+msgstr "Configuration d'un démo avec un seul clique."
+
+#: inc/extras.php:324
+msgid "PRO version benefits?"
+msgstr "Avantages de la version Pro?"
+
+#: inc/extras.php:320
+msgid "Create a post or page with slider content. Do not forget to add featured image since it will be used as background image for a slide. Go to Appearance > Customizer > Front Slider. Enable slider if not already. Under Slides > Slide 1, select the post or page you want to output content from."
+msgstr "Créer un article ou une page avec un carousel. N'oubliez pas d'ajouter une image de mise à l'avant car elle sera utilisée comme image de fond pour une diapositive. Naviguer à Apparence > Customizer > Carousel de l'avant. Activez le carousel s'il n'est pas déjà activé. Sous Diapositives > Diapositive 1. choisissez l'article ou page cible."
+
+#: inc/extras.php:319
+msgid "How to setup a slide for slider?"
+msgstr "Comment configurer une diapositive pour le carrousel?"
+
+#: inc/extras.php:317
+msgid "This theme comes with two menu locations in the header area, namely, top left and top right. You should distribute your menu items among the top left and top right menus because site logo will appear in between these two menus."
+msgstr "Ce thème inclut deux emplacements de menu dans l'en-tête: à gauche et à droite du logo. Conséquemment, il est recommandé que vous distribuiez les menus de façon égale afin de maintenir l'équilibre visuel."
+
+#: inc/extras.php:316
+msgid "Important info about menu"
+msgstr "Information importante au sujet du menu"
+
+#: inc/extras.php:296
+msgid "Unisco"
+msgstr "Unisco"
+
+#: inc/extras.php:117
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/extras.php:89 inc/extras.php:90
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/extras.php:88
+msgid "Search for:"
+msgstr "Rechercher pour:"
+
+#: inc/extras.php:81
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: inc/extras.php:31
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: inc/customizer.php:351
+msgid "Unisco Lite"
+msgstr "Unisco Lite"
+
+#: inc/customizer.php:337
+msgid "This logo will appear on small screens."
+msgstr "Ce logo apparaîtra sur les petits écrans."
+
+#: inc/customizer.php:335
+msgid "Mobile Logo"
+msgstr "Logo mobile"
+
+#: inc/customizer.php:309
+msgid "Footer Background Color"
+msgstr "Couleur de fond du pied de page"
+
+#: inc/customizer.php:285
+msgid "Footer Heading Color"
+msgstr "Couleur de titre du pied de page"
+
+#: inc/customizer.php:261
+msgid "Footer Text Color"
+msgstr "Couleur de texte du pied de page"
+
+#: inc/customizer.php:237
+msgid "Body Text Color"
+msgstr "Couleur du texte de corps"
+
+#: inc/customizer.php:210
+msgid "Accent Color"
+msgstr "Couleur d'accent"
+
+#: inc/customizer.php:182
+msgid "Header Background Color"
+msgstr "Couleur de fond de l'en-tête"
+
+#: inc/customizer.php:155
+msgid "Display Site Tagline"
+msgstr "Afficher le slogan"
+
+#: inc/customizer.php:135
+msgid "Tagline"
+msgstr "Slogan"
+
+#: inc/customizer.php:125
+msgid "Display Site Title"
+msgstr "Afficher le titre du site"
+
+#: inc/customizer.php:115
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: inc/customizer.php:103
+msgid "Courses, Events & more"
+msgstr "Cours, événements, et plus"
+
+#: inc/customizer.php:101
+msgid "Go Pro"
+msgstr "Allez Pro"
+
+#: inc/customizer.php:99
+msgid "Unisco Pro"
+msgstr "Unisco Pro"
+
+#: inc/customizer.php:74
+msgid "demo"
+msgstr "demo"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:156
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "activer"
+
+#: functions.php:137
+msgid "Add widgets here."
+msgstr "Ajouter des widgets ici."
+
+#: functions.php:135
+msgid "Footer"
+msgstr "Pied de page"
+
+#: functions.php:128
+msgid "This sidebar will be shown on single course page."
+msgstr "Cette colonne latérale apparaîtra sur une page de cours."
+
+#: functions.php:126
+msgid "Course"
+msgstr "Cours"
+
+#: functions.php:119
+msgid "This is the default sidebar."
+msgstr "Ceci est la colonne latérale par défaut."
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr "Colonne latérale "
+
+#: functions.php:58
+msgid "Top Right"
+msgstr "Haut à droite"
+
+#: functions.php:57
+msgid "Top Left"
+msgstr "Haut à gauche"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:53
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:48
+msgid "Proudly powered by %s"
+msgstr "Fièrement développé par %s"
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: customizer/sections/slider.php:173
+msgid "Add more and more and more..."
+msgstr "Et plus, et plus, et plus..."
+
+#: customizer/sections/slider.php:172
+msgid "Slides"
+msgstr "Diapositives"
+
+#: customizer/sections/slider.php:162
+msgid "Campus life"
+msgstr "Vie de campus"
+
+#: customizer/sections/slider.php:159
+msgid "Campus life @ Unisco"
+msgstr "Vie de campus @ Unisco"
+
+#: customizer/sections/slider.php:149
+msgid "We foster wisdom"
+msgstr "Nous favorisons la sagesse"
+
+#: customizer/sections/slider.php:144 customizer/sections/slider.php:154
+msgid "Learn More"
+msgstr "En apprendre plus"
+
+#: customizer/sections/slider.php:142 customizer/sections/slider.php:152
+msgid "See programs"
+msgstr "Voir les programmes "
+
+#: customizer/sections/slider.php:140 customizer/sections/slider.php:150
+#: customizer/sections/slider.php:160
+msgid "Proactively utilize open-source users for process-centric total linkage.<br> Energistically reinvent web-enabled initiatives with premium <br>processes. Proactively drive."
+msgstr "Utilisez de manière proactive les utilisateurs du logiciel libre pour un couplage total centré sur les processus. <br> Réinventez avec énergie les initiatives Web avec des processus <br> premium. Conduire de manière proactive."
+
+#: customizer/sections/slider.php:139
+msgid "Creative Thinking & Innovation"
+msgstr "Pensée créative et innovation"
+
+#: customizer/sections/slider.php:73 customizer/sections/slider.php:128
+msgid "Yes"
+msgstr "Oui"
+
+#: customizer/sections/slider.php:72 customizer/sections/slider.php:127
+msgid "No"
+msgstr "Non"
+
+#: customizer/sections/slider.php:62
+msgid "Enable Front Slider"
+msgstr "Activer le carrousel de l'avant"
+
+#: customizer/sections/slider.php:40
+msgid "Allows you to customize the slider on the front page. This slider will appear only when the front page is set to latest posts."
+msgstr "Vous permet de personnaliser le carrousel sur la page d'accueil. Ce carrousel apparaît uniquement lorsque la page d'accueil est configurée pour les derniers articles."
+
+#: customizer/sections/slider.php:34
+msgid "Front Slider"
+msgstr "Carrousel de l'avant"
+
+#: customizer/controls/unisco_slide_repeater.php:176
+msgid "Add Slide"
+msgstr "Ajouter une diapositive"
+
+#: customizer/controls/unisco_slide_repeater.php:168
+msgid "Remove"
+msgstr "Enlever"
+
+#: customizer/controls/unisco_slide_repeater.php:161
+msgid "Text"
+msgstr "Texte"
+
+#: customizer/controls/unisco_slide_repeater.php:159
+msgid "Button 2"
+msgstr "Bouton 2"
+
+#: customizer/controls/unisco_slide_repeater.php:150
+msgid "Button 1"
+msgstr "Bouton 1"
+
+#: customizer/controls/unisco_slide_repeater.php:140
+msgid "None"
+msgstr "Aucun"
+
+#: customizer/controls/unisco_slide_repeater.php:138
+msgid "Post/Page for slide content"
+msgstr "Page/article pour le contenu de diapositive"
+
+#: customizer/controls/unisco_slide_repeater.php:132
+msgid "Slide"
+msgstr "Diapositive"
+
+#. translators: %1$s: Logged in user's profile URL. %2$s: Logged in user's
+#. name. %3$s: Log out URL.
+#: comments.php:132
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Déconnecter de ce compte\">Déconnexion?</a>"
+
+#. translators: %s: Login URL.
+#: comments.php:125
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> afin de commenter."
+
+#: comments.php:120
+msgctxt "noun"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:117
+msgid "Submit Comment"
+msgstr "Soumettre le commentaire"
+
+#: comments.php:116
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#. translators: %s: Author of the comment being replied to.
+#: comments.php:115
+msgid "Leave a Reply to %s"
+msgstr "Laissez une réponse à %s"
+
+#: comments.php:104
+msgid "Website URL"
+msgstr "Adresse Web"
+
+#: comments.php:101
+msgid "Email ID"
+msgstr "Adresse de courriel"
+
+#: comments.php:98
+msgid "Full Name"
+msgstr "Nom complet "
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:57 comments.php:75
+msgid "Newer Comments"
+msgstr "Commentaires récents"
+
+#: comments.php:56 comments.php:74
+msgid "Older Comments"
+msgstr "Commentaires plus ancients "
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:43
+msgid "Write a Comment"
+msgstr "Écrire un commentaire"
+
+#. translators: %s: Total number of comments.
+#: comments.php:37
+msgid "Comments (%s)"
+msgstr "Commentaires (%s)"
+
+#. translators: %1$s: smiley
+#: 404.php:70
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de chercher dans les archives mensuelles. %1$s"
+
+#: 404.php:53
+msgid "Most Used Categories"
+msgstr "Catégories les plus souvent utilisées. "
+
+#: 404.php:38
+msgid "Maybe try one of the links from below or another search?"
+msgstr "Essayer un des liens ci-dessous, ou encore, une nouvelle recherche."
+
+#: 404.php:37
+msgid "It looks like nothing was found at this location."
+msgstr "Rien n'a été trouvé à cet endroit."
+
+#. Theme URI of the plugin/theme
+msgid "https://snapthemes.io/products/unisco-education-wordpress-theme/"
+msgstr "https://snapthemes.io/products/unisco-education-wordpress-theme/"
+
+#. Author URI of the plugin/theme
+msgid "https://snapthemes.io/"
+msgstr "https://snapthemes.io/"
+
+#. Author of the plugin/theme
+msgid "SnapThemes, gautamanizer"
+msgstr "SnapThemes, gautamanizer"
